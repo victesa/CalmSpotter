@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/outline_emoji_emotions_24</item>
+        <item name="windowSplashScreenBackground">@color/app_color</item>
+        <item name="postSplashScreenTheme">@style/Theme.CalmSpotter</item>
+    </style>
+</resources>

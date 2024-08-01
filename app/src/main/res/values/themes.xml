@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CalmSpotter" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_icon</item>
+        <item name="windowSplashScreenBackground">@color/app_color</item>
+    </style>
+</resources>
